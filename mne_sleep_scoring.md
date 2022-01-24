@@ -19,6 +19,7 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 \Anaconda_path\ahyxl\anaconda3\envs\mne_sleep_scoring\site-packages\mne\viz\\utils.py
 
 \Anaconda_path\ahyxl\anaconda3\envs\mne_sleep_scoring\site-packages\mne\annotations.py
+
 == If you use Mac/Linux, please change '\\' to '/' ==
 
 
