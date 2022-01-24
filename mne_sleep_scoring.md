@@ -12,14 +12,14 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 
 ### Step 3. Downloading .edf files which include PSG data <https://pan.baidu.com/s/1SJ1n2DY6psgwJbSjmXf2cA> (pwoc)
 
-### Step 4. Downloading three .py scripts (at above URL link) which modified by Jiayi Liu to make MNE more appropriate for sleep scoring and overwrite the original script in MNE.
+### Step 4. Downloading three .py scripts ./Scripts/ which modified by Jiayi Liu to make MNE more appropriate for sleep scoring and overwrite the original script in MNE.
 
-\Anaconda_path\envs\mne_sleep_scoring\Lib\site-packages\mne\viz\\_mpl_figure.py
+\Anaconda_path\envs\mne_sleep_scoring\Lib\site-packages\mne\viz\_mpl_figure.py
 
 \Anaconda_path\ahyxl\anaconda3\envs\mne_sleep_scoring\site-packages\mne\viz\\utils.py
 
 \Anaconda_path\ahyxl\anaconda3\envs\mne_sleep_scoring\site-packages\mne\annotations.py
-
+== If you use Mac/Linux, please change '\\' to '/' ==
 
 
 ## :star:How to use
