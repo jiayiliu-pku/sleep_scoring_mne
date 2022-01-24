@@ -50,7 +50,7 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 
 #### If you want to score this frame as NREM 1, just press '1' and you will get one additional annotation figure.
 
-![image-20220124104246216](C:\Users\ahyxl\AppData\Roaming\Typora\typora-user-images\image-20220124104246216.png)
+![image-20220124104246216](https://github.com/jiayiliu-pku/sleep_scoring_mne/blob/main/Figs/image-20220124104246216.png)
 
 #### Press '2' for NREM 2
 
@@ -70,7 +70,7 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 
 You will find the annotations including annotation information in the _test.csv_
 
-![image-20220124112359931](C:\Users\ahyxl\AppData\Roaming\Typora\typora-user-images\image-20220124112359931.png)
+![image-20220124112359931](https://github.com/jiayiliu-pku/sleep_scoring_mne/blob/main/Figs/image-20220124112359931.png)
 
 
 
