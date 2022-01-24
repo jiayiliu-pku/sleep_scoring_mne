@@ -40,7 +40,7 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 
 `dataset.filter(l_freq=10, h_freq=100, picks=['Chin1-Chin2', 'Chin3-Chin2'])`
 
-![image-20220124104016675](C:\Users\ahyxl\AppData\Roaming\Typora\typora-user-images\image-20220124104016675.png)
+![image-20220124104016675](https://github.com/jiayiliu-pku/sleep_scoring_mne/blob/main/Figs/image-20220124104016675.png)
 
 `dataset.plot(duration=30)`
 
