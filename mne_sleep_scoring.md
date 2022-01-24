@@ -20,7 +20,7 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 
 \Anaconda_path\ahyxl\anaconda3\envs\mne_sleep_scoring\site-packages\mne\annotations.py
 
-== If you use Mac/Linux, please change '\\' to '/' ==
+** If you use Mac/Linux, please change '\\' to '/' **
 
 
 ## :star:How to use
@@ -61,7 +61,7 @@ Jiayi Liu, jiayiliu@pku.edu.cn, 2022/01/24
 
 #### Press 'r' for REM
 
-#### ==After completing scoring of this file, you should close the annotation figure firstly and then close the plot figure.==
+#### **After completing scoring of this file, you should close the annotation figure firstly and then close the plot figure.**
 
 
 
